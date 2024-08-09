@@ -1,4 +1,4 @@
-## Hi there 👋
+ENGENHEIRO DE SOFTWARE BACKEND PLENO
 
 <!--
 **esalanguerra/esalanguerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Engenheiro de Software com 7 anos de experiência com Desenvolvimento Web, grande parte em Desenvolvimento de Microsserviços, Infraestrutura focada em Escalabilidade de Sistemas Distribuídos. Especializado em Arquitetura de Software, Tomada de Decisão, Redes de Computadores e Desenvolvimento de Sistemas com Arquitetura Limpa.
+
+Desenvolvimento de Software com Metodologia Ágil e Scrum, Resiliência na tomada de decisões necessárias, Comunicação entre squads e equipes de outros setores, Gestão de Tempo, Trabalho em Equipe e Liderança de Equipes.
