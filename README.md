@@ -1,5 +1,7 @@
 # ENGENHEIRO DE SOFTWARE BACKEND PLENO
 
+![Nerd](./kagurabachi_memes__3u0180.jpg)
+
 <!--
 **esalanguerra/esalanguerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
